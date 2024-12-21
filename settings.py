@@ -15,7 +15,7 @@ settings = {
     "SAVE_DIAGNOSTIC": False,
 
     # Whether to save log data (True or False)
-    "SAVE_LOG": False,
+    "SAVE_LOG": True,
 
     # Whether to save the model's output data (True or False)
     "SAVE_OUTPUT": True,
