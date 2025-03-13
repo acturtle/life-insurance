@@ -8,7 +8,7 @@ assumption = {
 
 
 policy = ModelPointSet(data=pd.DataFrame({
-    "sum_assured": [100_000]
+    "sum_assured": [100_000, 20_000, 50_000, 80_000]
 }))
 
 
