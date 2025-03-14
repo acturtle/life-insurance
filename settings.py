@@ -15,10 +15,10 @@ settings = {
     "SAVE_DIAGNOSTIC": False,
 
     # Whether to save log data (True or False)
-    "SAVE_LOG": True,
+    "SAVE_LOG": False,
 
     # Whether to save the model's output data (True or False)
-    "SAVE_OUTPUT": True,
+    "SAVE_OUTPUT": False,
 
     # Maximum time step for calculations (default is 720)
     "T_MAX_CALCULATION": 720,
